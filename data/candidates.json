@@ -1,0 +1,1074 @@
+[
+  {
+    "filename": "resume_01_john_doe.pdf",
+    "name": "John Doe",
+    "contact": "john.doe@techmail.com | +1-555-0101 | San Francisco, CA | github.com/johndoe",
+    "summary": "Senior Backend Engineer with 8 years of experience architecting distributed systems, asynchronous event pipelines, and REST APIs using Python, FastAPI, Django, and Redis. Passionate about query optimization and microservice resiliency.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Kafka",
+      "Celery",
+      "Microservices"
+    ],
+    "experience": [
+      [
+        "Lead Python Engineer",
+        "Apex Cloud Systems",
+        "2021 - Present (4 years)",
+        "Architected event-driven pipelines processing 15M daily events in Python & Kafka. Reduced database query latency by 45%."
+      ],
+      [
+        "Senior Backend Developer",
+        "FinTech Nexus",
+        "2018 - 2021 (3 years)",
+        "Developed PCI-compliant REST APIs in FastAPI with PostgreSQL, maintaining 99.99% uptime across payment gateways."
+      ],
+      [
+        "Software Engineer",
+        "DataStream Inc",
+        "2016 - 2018 (2 years)",
+        "Built automated data ingestion batch scripts in Python and Flask."
+      ]
+    ],
+    "education": "B.S. in Computer Science - University of California, Berkeley (2016)"
+  },
+  {
+    "filename": "resume_02_emily_chen.pdf",
+    "name": "Emily Chen",
+    "contact": "emily.chen@datascience.io | +1-555-0102 | New York, NY",
+    "summary": "Senior Data Scientist with 6 years of experience leveraging predictive modeling, statistical inference, and machine learning to drive revenue growth. Advanced proficiency in Python, Pandas, Scikit-Learn, and SQL.",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "SQL",
+      "Tableau",
+      "Snowflake",
+      "A/B Testing",
+      "Spark",
+      "Airflow",
+      "Machine Learning"
+    ],
+    "experience": [
+      [
+        "Lead Data Scientist",
+        "Metro Metrics Corp",
+        "2021 - Present (4 years)",
+        "Constructed predictive customer churn models in Python with Scikit-Learn, saving .4M annually in customer retention."
+      ],
+      [
+        "Quantitative Analyst",
+        "Beacon Capital Partners",
+        "2019 - 2021 (2 years)",
+        "Formulated automated portfolio risk attribution pipelines using Python and SQL, reducing daily calculation latency by 70%."
+      ]
+    ],
+    "education": "M.S. in Applied Statistics - Columbia University (2019)"
+  },
+  {
+    "filename": "resume_03_david_wilson.pdf",
+    "name": "David Wilson",
+    "contact": "david.wilson@securityops.net | +1-555-0103 | Washington, DC",
+    "summary": "Cybersecurity Specialist and DevSecOps Engineer with 5 years of experience in vulnerability assessments, penetration testing, SIEM automation, and cloud security architecture on AWS.",
+    "skills": [
+      "Cybersecurity",
+      "Python",
+      "Linux",
+      "Bash",
+      "SIEM (Splunk, Elastic)",
+      "AWS Security",
+      "OWASP Top 10",
+      "SOC 2",
+      "Terraform",
+      "Wireshark"
+    ],
+    "experience": [
+      [
+        "Senior Security Engineer",
+        "Vanguard Cyber Defense",
+        "2022 - Present (3 years)",
+        "Engineered automated Python triage scripts that parse firewall logs and alert on brute-force attempts in real-time."
+      ],
+      [
+        "SOC Security Analyst",
+        "Federal Data Guard",
+        "2020 - 2022 (2 years)",
+        "Monitored threat vectors across 600+ endpoints, conducting forensic root-cause analysis and intrusion prevention."
+      ]
+    ],
+    "education": "B.S. in Cybersecurity - George Mason University (2020)"
+  },
+  {
+    "filename": "resume_04_marcus_vance.pdf",
+    "name": "Marcus Vance",
+    "contact": "marcus.vance@cloudarch.com | +1-555-0104 | Seattle, WA",
+    "summary": "Principal Cloud Infrastructure Architect with 10 years of experience managing multi-region AWS and GCP deployments, Kubernetes clusters, and enterprise infrastructure as code using Terraform.",
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "Docker",
+      "GCP",
+      "CI/CD",
+      "Helm",
+      "Go",
+      "Prometheus",
+      "ArgoCD",
+      "Linux"
+    ],
+    "experience": [
+      [
+        "Principal Cloud Architect",
+        "HyperScale Cloud",
+        "2020 - Present (5 years)",
+        "Architected multi-region AWS EKS infrastructure serving 50M monthly active users with zero-downtime deployments."
+      ],
+      [
+        "Senior DevOps Engineer",
+        "NextGen SaaS",
+        "2016 - 2020 (4 years)",
+        "Automated infrastructure provisioning with Terraform and Helm, cutting environment spin-up time from 3 days to 15 minutes."
+      ],
+      [
+        "Systems Engineer",
+        "ServerCorp",
+        "2014 - 2016 (2 years)",
+        "Maintained Linux server fleets and automated bash backups."
+      ]
+    ],
+    "education": "B.S. in Computer Engineering - University of Washington (2014)"
+  },
+  {
+    "filename": "resume_05_elena_rostova.pdf",
+    "name": "Elena Rostova",
+    "contact": "elena.rostova@nlp-ai.org | +1-555-0105 | Boston, MA",
+    "summary": "Machine Learning & NLP Specialist with 5 years of experience researching and deploying transformer models, fine-tuning LLMs, and building RAG pipelines using Python, PyTorch, and LangChain.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "HuggingFace",
+      "Transformers",
+      "LangChain",
+      "Vector Databases",
+      "ChromaDB",
+      "FastAPI",
+      "NLP",
+      "Machine Learning"
+    ],
+    "experience": [
+      [
+        "Senior ML / NLP Engineer",
+        "Cognitive AI Systems",
+        "2022 - Present (3 years)",
+        "Built production RAG search engines using ChromaDB and PyTorch transformers, boosting semantic query relevance by 55%."
+      ],
+      [
+        "AI Research Scientist",
+        "NeuralLab Boston",
+        "2020 - 2022 (2 years)",
+        "Fine-tuned open-source BERT and Llama models for biomedical entity extraction and question answering in Python."
+      ]
+    ],
+    "education": "Ph.D. in Computer Science (NLP Specialization) - MIT (2020)"
+  },
+  {
+    "filename": "resume_06_carlos_mendez.pdf",
+    "name": "Carlos Mendez",
+    "contact": "carlos.m@mobiledev.io | +1-555-0106 | Miami, FL",
+    "summary": "Lead Mobile Engineer with 7 years of native iOS and Android development experience using Swift, Kotlin, and React Native. Proven track record of shipping top-chart consumer apps.",
+    "skills": [
+      "Swift",
+      "iOS",
+      "Kotlin",
+      "Android",
+      "React Native",
+      "TypeScript",
+      "Mobile UI",
+      "GraphQL",
+      "Firebase",
+      "App Store Optimization"
+    ],
+    "experience": [
+      [
+        "Lead Mobile Developer",
+        "VibePay Mobile",
+        "2021 - Present (4 years)",
+        "Led iOS team shipping consumer fintech app with 4.8-star App Store rating and over 2M downloads."
+      ],
+      [
+        "Mobile Software Engineer",
+        "AppCraft Studios",
+        "2018 - 2021 (3 years)",
+        "Developed responsive native Android apps in Kotlin and modular iOS features in Swift."
+      ]
+    ],
+    "education": "B.S. in Software Engineering - University of Florida (2018)"
+  },
+  {
+    "filename": "resume_07_rachel_green.pdf",
+    "name": "Rachel Green",
+    "contact": "rachel.green@qualityeng.com | +1-555-0107 | Denver, CO",
+    "summary": "Senior QA Automation Engineer with 6 years of expertise in test architecture, Cypress, Playwright, Selenium, and Python test frameworks for high-frequency CI/CD release cycles.",
+    "skills": [
+      "QA Automation",
+      "Python",
+      "Playwright",
+      "Cypress",
+      "Selenium",
+      "Jest",
+      "CI/CD",
+      "API Testing",
+      "Postman",
+      "Performance Testing"
+    ],
+    "experience": [
+      [
+        "Senior Test Automation Lead",
+        "Peak SaaS Solutions",
+        "2021 - Present (4 years)",
+        "Designed automated test automation framework in Python and Playwright reducing manual QA cycle from 3 days to 40 minutes."
+      ],
+      [
+        "QA Engineer",
+        "Denver Tech Labs",
+        "2019 - 2021 (2 years)",
+        "Authored comprehensive end-to-end regression suites in Cypress and Selenium."
+      ]
+    ],
+    "education": "B.S. in Information Systems - University of Colorado (2019)"
+  },
+  {
+    "filename": "resume_08_tariq_almansoor.pdf",
+    "name": "Tariq Al-Mansoor",
+    "contact": "tariq.am@dataeng.net | +1-555-0108 | Houston, TX",
+    "summary": "Lead Data Engineer with 7 years of experience constructing scalable ETL/ELT pipelines, real-time streaming architectures, and lakehouses using Python, PySpark, Snowflake, and Apache Airflow.",
+    "skills": [
+      "Data Engineering",
+      "Python",
+      "PySpark",
+      "Apache Airflow",
+      "Snowflake",
+      "Kafka",
+      "SQL",
+      "dbt",
+      "AWS",
+      "BigQuery"
+    ],
+    "experience": [
+      [
+        "Principal Data Engineer",
+        "EnergyStream Data",
+        "2021 - Present (4 years)",
+        "Architected multi-terabyte data lakehouse in Snowflake using dbt, reducing query cost by /year."
+      ],
+      [
+        "Senior ETL Developer",
+        "OmniData Analytics",
+        "2018 - 2021 (3 years)",
+        "Engineered automated Airflow DAGs and Kafka streaming consumers in Python processing 80GB of telemetry per hour."
+      ]
+    ],
+    "education": "M.S. in Data Engineering - Texas A&M University (2018)"
+  },
+  {
+    "filename": "resume_09_sophie_martin.pdf",
+    "name": "Sophie Martin",
+    "contact": "sophie.m@frontendcraft.io | +1-555-0109 | San Jose, CA",
+    "summary": "Staff Frontend Engineer with 9 years of expertise crafting responsive web apps, high-performance UI rendering, and enterprise design systems using React, TypeScript, Next.js, and Webpack.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Next.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Redux",
+      "GraphQL",
+      "Web Performance"
+    ],
+    "experience": [
+      [
+        "Staff Frontend Engineer",
+        "CloudScale Enterprise",
+        "2020 - Present (5 years)",
+        "Spearheaded design system overhaul in React and TypeScript across 12 SaaS products, decreasing bundle size by 38%."
+      ],
+      [
+        "Senior UI Developer",
+        "Silicon Pixels",
+        "2016 - 2020 (4 years)",
+        "Engineered interactive analytics dashboards with Next.js and Tailwind, achieving 99+ Lighthouse performance scores."
+      ]
+    ],
+    "education": "B.S. in Computer Science - San Jose State University (2016)"
+  },
+  {
+    "filename": "resume_10_liam_o_connor.pdf",
+    "name": "Liam O Connor",
+    "contact": "liam.oc@embeddediot.ie | +1-555-0110 | Dublin, Ireland",
+    "summary": "Embedded Systems & Firmware Engineer with 5 years of experience writing low-level C/C++ and Rust for microcontrollers, RTOS kernels, and industrial IoT hardware.",
+    "skills": [
+      "C",
+      "C++",
+      "Rust",
+      "Embedded Systems",
+      "FreeRTOS",
+      "Linux Kernel",
+      "I2C",
+      "SPI",
+      "IoT",
+      "Microcontrollers"
+    ],
+    "experience": [
+      [
+        "Senior Firmware Engineer",
+        "Nordic Edge Systems",
+        "2022 - Present (3 years)",
+        "Authored secure BLE telemetry firmware in C and Rust for battery-operated environmental sensors."
+      ],
+      [
+        "Embedded Software Developer",
+        "Industrial Automation Ltd",
+        "2020 - 2022 (2 years)",
+        "Developed hardware abstraction drivers for ARM Cortex-M processors in C."
+      ]
+    ],
+    "education": "B.Eng. in Electronic Engineering - Trinity College Dublin (2020)"
+  },
+  {
+    "filename": "resume_11_jane_smith.docx",
+    "name": "Jane Smith",
+    "contact": "jane.smith@techdomain.com | +1-555-0111 | Austin, TX",
+    "summary": "Full Stack Software Engineer with 5 years of experience building modern web applications. Deep expertise in React and Node.js on the frontend, alongside Python scripting and FastAPI microservice integration.",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express",
+      "FastAPI",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "TailwindCSS"
+    ],
+    "experience": [
+      [
+        "Senior Full Stack Developer",
+        "OmniWeb Solutions",
+        "2021 - Present (4 years)",
+        "Spearheaded responsive enterprise dashboard redesign in React, integrating Python FastAPI microservices for real-time analytics."
+      ],
+      [
+        "Full Stack Web Developer",
+        "Creative Pixels Studio",
+        "2020 - 2021 (1 year)",
+        "Delivered single-page web applications with React, Node.js, and PostgreSQL, improving user retention by 28%."
+      ]
+    ],
+    "education": "B.S. in Software Engineering - University of Texas at Austin (2020)"
+  },
+  {
+    "filename": "resume_12_michael_brown.docx",
+    "name": "Michael Brown",
+    "contact": "michael.brown@cloudops.net | +1-555-0112 | Chicago, IL",
+    "summary": "DevOps and Cloud Infrastructure Engineer with 8 years of experience building secure multi-region environments on AWS and GCP. Expert in Terraform, Kubernetes, Helm, Go, and zero-downtime CI/CD automation.",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "AWS",
+      "GCP",
+      "Go",
+      "Bash",
+      "GitHub Actions",
+      "Prometheus",
+      "ArgoCD",
+      "Linux"
+    ],
+    "experience": [
+      [
+        "Principal DevOps Engineer",
+        "Stratus Cloud Tech",
+        "2020 - Present (5 years)",
+        "Migrated bare-metal monolithic systems to AWS EKS using Terraform and Helm, improving deployment cadence by 300%."
+      ],
+      [
+        "Site Reliability Engineer",
+        "Apex Logistics",
+        "2017 - 2020 (3 years)",
+        "Authored Golang daemon monitoring tools and automated disaster recovery failover with Bash and Ansible."
+      ]
+    ],
+    "education": "B.S. in Computer Engineering - University of Illinois at Urbana-Champaign (2017)"
+  },
+  {
+    "filename": "resume_13_priya_sharma.docx",
+    "name": "Priya Sharma",
+    "contact": "priya.sharma@deeplearning.ai | +1-555-0113 | San Jose, CA",
+    "summary": "AI Research Scientist with 4 years of background in Natural Language Processing, Transformer architectures, and LLM fine-tuning. Experienced with Python, PyTorch, HuggingFace, and agentic workflows.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "HuggingFace",
+      "Transformers",
+      "LangChain",
+      "vLLM",
+      "Deep Learning",
+      "FastAPI",
+      "MLOps",
+      "Machine Learning"
+    ],
+    "experience": [
+      [
+        "AI Research Scientist",
+        "NeuralEdge Technologies",
+        "2022 - Present (3 years)",
+        "Researched and fine-tuned open-source 7B and 13B parameter LLMs in Python using LoRA/QLoRA on multi-node GPU clusters."
+      ],
+      [
+        "NLP Research Intern",
+        "Stanford AI Lab",
+        "2021 - 2022 (1 year)",
+        "Published empirical evaluations on semantic text parsing and context retrieval benchmarking in Python."
+      ]
+    ],
+    "education": "M.S. in Computer Science (AI Track) - Stanford University (2022)"
+  },
+  {
+    "filename": "resume_14_kevin_zhang.docx",
+    "name": "Kevin Zhang",
+    "contact": "kevin.z@clouddev.io | +1-555-0114 | Los Angeles, CA",
+    "summary": "Backend Software Engineer with 4 years of experience building high-throughput microservices using Go and Python. Proficient in gRPC, Redis, Kafka, and Kubernetes cloud deployments.",
+    "skills": [
+      "Go",
+      "Python",
+      "gRPC",
+      "PostgreSQL",
+      "Redis",
+      "Kafka",
+      "Docker",
+      "Kubernetes",
+      "Microservices",
+      "AWS"
+    ],
+    "experience": [
+      [
+        "Backend Software Engineer",
+        "StreamPulse Media",
+        "2022 - Present (3 years)",
+        "Developed gRPC microservices in Go and Python serving 20K requests per second for video streaming telemetry."
+      ],
+      [
+        "Associate Software Developer",
+        "TechNova Labs",
+        "2021 - 2022 (1 year)",
+        "Engineered REST APIs in Python Flask with PostgreSQL database optimizations."
+      ]
+    ],
+    "education": "B.S. in Computer Science - UCLA (2021)"
+  },
+  {
+    "filename": "resume_15_ananya_deshmukh.docx",
+    "name": "Ananya Deshmukh",
+    "contact": "ananya.d@biotech-ai.com | +1-555-0115 | Cambridge, MA",
+    "summary": "Bioinformatics & Machine Learning Engineer with 5 years of experience developing deep learning models for genomics, drug discovery, and molecular property prediction using Python and PyTorch.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Bioinformatics",
+      "Machine Learning",
+      "Scikit-Learn",
+      "R",
+      "Pandas",
+      "AWS",
+      "SQL",
+      "Deep Learning"
+    ],
+    "experience": [
+      [
+        "Senior ML Bioinformatics Engineer",
+        "Genomics Frontier",
+        "2022 - Present (3 years)",
+        "Trained graph neural networks in PyTorch to predict drug-target interaction affinity, improving hit rates by 35%."
+      ],
+      [
+        "Computational Biologist",
+        "Harvard Broad Institute",
+        "2020 - 2022 (2 years)",
+        "Analyzed single-cell RNA-seq datasets in Python and R, authoring scalable analytical pipelines."
+      ]
+    ],
+    "education": "M.S. in Computational Biology - Harvard University (2020)"
+  },
+  {
+    "filename": "resume_16_brandon_cole.docx",
+    "name": "Brandon Cole",
+    "contact": "brandon.c@fullstackpro.com | +1-555-0116 | Atlanta, GA",
+    "summary": "Full Stack Developer with 6 years of experience building enterprise web portals and APIs using React, TypeScript, Python, and PostgreSQL on AWS.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Python",
+      "Django",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "REST APIs",
+      "TailwindCSS"
+    ],
+    "experience": [
+      [
+        "Senior Full Stack Engineer",
+        "Logix Enterprise",
+        "2021 - Present (4 years)",
+        "Built customer-facing portals in React and TypeScript supported by Django REST microservices on AWS ECS."
+      ],
+      [
+        "Software Engineer",
+        "Southern Code Works",
+        "2019 - 2021 (2 years)",
+        "Maintained React and Node.js applications with automated CI/CD pipelines."
+      ]
+    ],
+    "education": "B.S. in Computer Science - Georgia Tech (2019)"
+  },
+  {
+    "filename": "resume_17_fatima_zahra.docx",
+    "name": "Fatima Zahra",
+    "contact": "fatima.z@datawarehouse.org | +1-555-0117 | Dallas, TX",
+    "summary": "Senior Data Warehouse & BI Architect with 8 years of experience designing enterprise data models in Snowflake, BigQuery, dbt, and PowerBI. Advanced SQL and Python modeling skills.",
+    "skills": [
+      "SQL",
+      "Snowflake",
+      "BigQuery",
+      "dbt",
+      "Python",
+      "PowerBI",
+      "Data Modeling",
+      "ETL",
+      "Airflow",
+      "Tableau"
+    ],
+    "experience": [
+      [
+        "Principal BI Architect",
+        "Global Retail Nexus",
+        "2020 - Present (5 years)",
+        "Architected enterprise data mart in Snowflake and dbt serving 400+ executive business users across 10 regions."
+      ],
+      [
+        "Senior BI Developer",
+        "Southwest Tech Solutions",
+        "2017 - 2020 (3 years)",
+        "Engineered executive dashboards in PowerBI backed by Python ETL data extraction jobs."
+      ]
+    ],
+    "education": "B.S. in Management Information Systems - UT Dallas (2017)"
+  },
+  {
+    "filename": "resume_18_joshua_miller.docx",
+    "name": "Joshua Miller",
+    "contact": "josh.m@seceng.io | +1-555-0118 | Philadelphia, PA",
+    "summary": "Application Security Engineer with 5 years of experience in SAST/DAST automation, secure code review, threat modeling, and container security for Python and JavaScript stacks.",
+    "skills": [
+      "Cybersecurity",
+      "AppSec",
+      "Python",
+      "OWASP",
+      "Docker",
+      "Kubernetes",
+      "Snyk",
+      "SonarQube",
+      "Linux",
+      "Penetration Testing"
+    ],
+    "experience": [
+      [
+        "Senior AppSec Engineer",
+        "SecureFin Corp",
+        "2022 - Present (3 years)",
+        "Integrated automated vulnerability scanners (Snyk, SonarQube) into CI/CD pipelines, reducing critical vulnerabilities by 80%."
+      ],
+      [
+        "Security Analyst",
+        "PenTest Alliance",
+        "2020 - 2022 (2 years)",
+        "Conducted web application penetration tests across 40+ client environments."
+      ]
+    ],
+    "education": "B.S. in Computer Security - Drexel University (2020)"
+  },
+  {
+    "filename": "resume_19_olivia_taylor.docx",
+    "name": "Olivia Taylor",
+    "contact": "olivia.t@producteng.com | +1-555-0119 | San Diego, CA",
+    "summary": "Frontend Specialist & UX Architect with 4 years of experience building accessible user interfaces with React, Vue.js, TypeScript, and modern CSS frameworks.",
+    "skills": [
+      "React",
+      "Vue.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Figma",
+      "Redux",
+      "Jest"
+    ],
+    "experience": [
+      [
+        "Frontend Developer",
+        "Coastline Digital",
+        "2022 - Present (3 years)",
+        "Developed customer dashboard in React and TypeScript with 100% WCAG AA accessibility compliance."
+      ],
+      [
+        "Junior UI Engineer",
+        "Pacific Creative",
+        "2021 - 2022 (1 year)",
+        "Built responsive Vue.js components for client e-commerce sites."
+      ]
+    ],
+    "education": "B.A. in Interactive Media - UC San Diego (2021)"
+  },
+  {
+    "filename": "resume_20_vikram_malhotra.docx",
+    "name": "Vikram Malhotra",
+    "contact": "vikram.m@javacloud.com | +1-555-0120 | Charlotte, NC",
+    "summary": "Staff Enterprise Java & Spring Boot Engineer with 10 years of experience designing multi-tier banking systems, message-driven architectures, and high-concurrency microservices.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Microservices",
+      "Kafka",
+      "PostgreSQL",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Hibernate",
+      "JUnit"
+    ],
+    "experience": [
+      [
+        "Staff Software Engineer",
+        "Atlantic Banking Corp",
+        "2019 - Present (6 years)",
+        "Architected core payment settlement platform in Java 17 and Spring Boot handling  daily transactions."
+      ],
+      [
+        "Senior Java Developer",
+        "FinEdge Software",
+        "2015 - 2019 (4 years)",
+        "Refactored legacy Java EE monolith into Spring Cloud microservices."
+      ]
+    ],
+    "education": "B.Tech in Computer Science - NIT Karnataka (2015)"
+  },
+  {
+    "filename": "resume_21_alex_kumar.txt",
+    "name": "Alex Kumar",
+    "contact": "alex.kumar@ai-research.org | +1-555-0121 | Seattle, WA",
+    "summary": "Machine Learning Engineer with 4 years of hands-on experience developing deep learning architectures and LLM applications using Python, PyTorch, and LangChain. Strong focus on fine-tuning transformer models and vector databases.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "HuggingFace",
+      "LangChain",
+      "Vector Databases",
+      "ChromaDB",
+      "Docker",
+      "FastAPI",
+      "Machine Learning"
+    ],
+    "experience": [
+      [
+        "Machine Learning Engineer",
+        "Cognitive AI Labs",
+        "2022 - Present (3 years)",
+        "Built Retrieval-Augmented Generation (RAG) pipelines in Python with LangChain and FAISS, boosting customer support automation by 65%."
+      ],
+      [
+        "Data & AI Developer",
+        "DataWave Analytics",
+        "2021 - 2022 (1 year)",
+        "Trained and evaluated computer vision and NLP classification models in Python and PyTorch on AWS GPU instances."
+      ]
+    ],
+    "education": "M.S. in Artificial Intelligence - University of Washington (2021)"
+  },
+  {
+    "filename": "resume_22_sarah_patel.txt",
+    "name": "Sarah Patel",
+    "contact": "sarah.patel@webcraft.com | +1-555-0122 | Boston, MA",
+    "summary": "Frontend UI/UX Engineer with 3 years of expertise building accessible, ultra-responsive web applications. Passionate about design systems, WCAG compliance, and modern JavaScript frameworks.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Vue.js",
+      "Next.js",
+      "HTML5",
+      "CSS3",
+      "TailwindCSS",
+      "Figma",
+      "Jest"
+    ],
+    "experience": [
+      [
+        "Frontend Developer",
+        "PixelCraft Studios",
+        "2023 - Present (2 years)",
+        "Engineered interactive SaaS components using React, TypeScript, and TailwindCSS, achieving 98+ Google Lighthouse scores."
+      ],
+      [
+        "Junior Web Designer & Dev",
+        "Elevate Creative",
+        "2022 - 2023 (1 year)",
+        "Built responsive landing pages and customized Vue.js storefront widgets for global e-commerce brands."
+      ]
+    ],
+    "education": "B.A. in Digital Media & Web Design - Northeastern University (2022)"
+  },
+  {
+    "filename": "resume_23_nathan_drake.txt",
+    "name": "Nathan Drake",
+    "contact": "nathan.d@pythonbackend.net | +1-555-0123 | Portland, OR",
+    "summary": "Backend Python Developer with 5 years of experience building REST APIs, background worker systems, and data scraping engines using Python, FastAPI, Celery, and PostgreSQL.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Flask",
+      "PostgreSQL",
+      "Celery",
+      "Redis",
+      "Docker",
+      "Git",
+      "REST APIs",
+      "AWS"
+    ],
+    "experience": [
+      [
+        "Backend Software Developer",
+        "Pacific Data Services",
+        "2022 - Present (3 years)",
+        "Engineered FastAPI microservices and Celery workers parsing 500K web documents daily with PostgreSQL storage."
+      ],
+      [
+        "Python Developer",
+        "Cascade Tech Labs",
+        "2020 - 2022 (2 years)",
+        "Maintained Flask web services and automated reporting scripts."
+      ]
+    ],
+    "education": "B.S. in Computer Science - Oregon State University (2020)"
+  },
+  {
+    "filename": "resume_24_hannah_abbott.txt",
+    "name": "Hannah Abbott",
+    "contact": "hannah.a@devopscloud.org | +1-555-0124 | Minneapolis, MN",
+    "summary": "Cloud Operations & CI/CD Engineer with 4 years of experience managing Kubernetes, Terraform, AWS infrastructure, and GitHub Actions automation.",
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "Docker",
+      "CI/CD",
+      "Linux",
+      "Bash",
+      "Prometheus",
+      "Grafana",
+      "Python"
+    ],
+    "experience": [
+      [
+        "DevOps Engineer",
+        "NorthStar Cloud",
+        "2022 - Present (3 years)",
+        "Maintained production AWS EKS clusters and automated multi-environment Terraform deployments."
+      ],
+      [
+        "Junior Cloud Admin",
+        "Midwest Systems",
+        "2021 - 2022 (1 year)",
+        "Configured monitoring dashboards in Grafana and automated bash backup routines."
+      ]
+    ],
+    "education": "B.S. in Network Administration - University of Minnesota (2021)"
+  },
+  {
+    "filename": "resume_25_rohit_nair.txt",
+    "name": "Rohit Nair",
+    "contact": "rohit.n@dataml.com | +1-555-0125 | Phoenix, AZ",
+    "summary": "Data Scientist with 5 years of experience building predictive models, recommendation systems, and time-series forecasting algorithms using Python, Scikit-Learn, LightGBM, and SQL.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Scikit-Learn",
+      "SQL",
+      "Pandas",
+      "NumPy",
+      "LightGBM",
+      "Tableau",
+      "AWS",
+      "Docker"
+    ],
+    "experience": [
+      [
+        "Data Scientist",
+        "Desert Ridge Analytics",
+        "2022 - Present (3 years)",
+        "Trained LightGBM click-through rate models in Python improving ad targeting efficiency by 22%."
+      ],
+      [
+        "Junior Data Analyst",
+        "Sunbelt Finance",
+        "2020 - 2022 (2 years)",
+        "Authored SQL data models and automated predictive regression scripts."
+      ]
+    ],
+    "education": "M.S. in Business Analytics - Arizona State University (2020)"
+  },
+  {
+    "filename": "resume_26_jessica_alba.txt",
+    "name": "Jessica Alba",
+    "contact": "jessica.a@reactpro.io | +1-555-0126 | Salt Lake City, UT",
+    "summary": "Full Stack Engineer with 4 years of experience building web applications using React, Node.js, TypeScript, and MongoDB. Strong eye for UX details and responsive design.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "REST APIs",
+      "TailwindCSS"
+    ],
+    "experience": [
+      [
+        "Full Stack Developer",
+        "Wasatch Tech Labs",
+        "2022 - Present (3 years)",
+        "Developed interactive customer-facing web apps in React and TypeScript with Node.js Express APIs."
+      ],
+      [
+        "Web Developer",
+        "Apex Creative",
+        "2021 - 2022 (1 year)",
+        "Built modern single-page applications with React and MongoDB."
+      ]
+    ],
+    "education": "B.S. in Computer Science - University of Utah (2021)"
+  },
+  {
+    "filename": "resume_27_samuel_jackson.txt",
+    "name": "Samuel Jackson",
+    "contact": "samuel.j@securitydefense.net | +1-555-0127 | Atlanta, GA",
+    "summary": "Cybersecurity Incident Responder & Threat Analyst with 6 years of experience investigating security breaches, analyzing malware, and building automated SOC alerts in Python.",
+    "skills": [
+      "Cybersecurity",
+      "Incident Response",
+      "Python",
+      "SIEM (Splunk)",
+      "Linux",
+      "Forensics",
+      "Network Security",
+      "Wireshark",
+      "Threat Intelligence"
+    ],
+    "experience": [
+      [
+        "Senior Incident Responder",
+        "Delta Cyber Guard",
+        "2021 - Present (4 years)",
+        "Investigated security incidents across 1000+ corporate endpoints and wrote automated triage scripts in Python."
+      ],
+      [
+        "SOC Security Analyst",
+        "Atlantic Security Ops",
+        "2019 - 2021 (2 years)",
+        "Monitored intrusion detection alerts and developed custom Splunk detection rules."
+      ]
+    ],
+    "education": "B.S. in Information Security - Kennesaw State University (2019)"
+  },
+  {
+    "filename": "resume_28_clara_oswald.txt",
+    "name": "Clara Oswald",
+    "contact": "clara.o@mlnlp.org | +1-555-0128 | London, UK",
+    "summary": "AI & NLP Engineer with 4 years of experience developing text classification, sentiment analysis, and embedding search models using Python, PyTorch, HuggingFace, and ChromaDB.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "PyTorch",
+      "HuggingFace",
+      "ChromaDB",
+      "Transformers",
+      "FastAPI",
+      "Docker",
+      "Git"
+    ],
+    "experience": [
+      [
+        "NLP Engineer",
+        "Veritas AI Systems",
+        "2022 - Present (3 years)",
+        "Built multilingual document classification models with HuggingFace and deployed them as FastAPI microservices."
+      ],
+      [
+        "Machine Learning Developer",
+        "DataLogic UK",
+        "2021 - 2022 (1 year)",
+        "Trained word embedding and text similarity models in Python."
+      ]
+    ],
+    "education": "M.Sc. in Machine Learning - University College London (2021)"
+  },
+  {
+    "filename": "resume_29_daniel_craig.txt",
+    "name": "Daniel Craig",
+    "contact": "daniel.c@datamaster.io | +1-555-0129 | Toronto, Canada",
+    "summary": "Senior Data Engineer with 7 years of experience building big data ingestion pipelines in Python, PySpark, AWS Glue, and Apache Kafka for enterprise financial data.",
+    "skills": [
+      "Data Engineering",
+      "Python",
+      "PySpark",
+      "Kafka",
+      "AWS",
+      "SQL",
+      "Airflow",
+      "PostgreSQL",
+      "Docker",
+      "ETL"
+    ],
+    "experience": [
+      [
+        "Senior Big Data Engineer",
+        "Maple Finance Technologies",
+        "2021 - Present (4 years)",
+        "Architected real-time streaming pipelines in PySpark and Kafka handling 50M financial market ticks daily."
+      ],
+      [
+        "Data Engineer",
+        "Ontario Data Corp",
+        "2018 - 2021 (3 years)",
+        "Built automated Airflow data pipelines and PostgreSQL data marts."
+      ]
+    ],
+    "education": "B.Sc. in Computer Science - University of Toronto (2018)"
+  },
+  {
+    "filename": "resume_30_amara_okoye.txt",
+    "name": "Amara Okoye",
+    "contact": "amara.o@cloudinfra.net | +1-555-0130 | Raleigh, NC",
+    "summary": "DevOps & Cloud Security Architect with 8 years of experience designing zero-trust cloud architectures on AWS, managing multi-tenant Kubernetes clusters, and writing Terraform automation.",
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "Docker",
+      "Cybersecurity",
+      "CI/CD",
+      "Linux",
+      "Python",
+      "Prometheus",
+      "Helm"
+    ],
+    "experience": [
+      [
+        "Principal Cloud Infrastructure Architect",
+        "Triangle Cloud Systems",
+        "2020 - Present (5 years)",
+        "Architected PCI-DSS compliant AWS Kubernetes platform with automated GitOps and Terraform modules."
+      ],
+      [
+        "DevOps Engineer",
+        "Carolina Tech Labs",
+        "2017 - 2020 (3 years)",
+        "Automated Docker container builds and implemented centralized logging with Elasticsearch."
+      ]
+    ],
+    "education": "B.S. in Computer Science - North Carolina State University (2017)"
+  },
+  {
+    "filename": "resume_31_ethan_hunt.txt",
+    "name": "Ethan Hunt",
+    "contact": "ethan.h@fullstack-py.com | +1-555-0131 | Austin, TX",
+    "summary": "Full Stack Software Engineer with 5 years of experience building modern reactive applications using Python FastAPI, React, TypeScript, and PostgreSQL.",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "REST APIs",
+      "TailwindCSS",
+      "Git"
+    ],
+    "experience": [
+      [
+        "Full Stack Developer",
+        "Austin Cloud Tech",
+        "2022 - Present (3 years)",
+        "Built full stack features using React and FastAPI microservices, serving 100K active users."
+      ],
+      [
+        "Software Developer",
+        "LoneStar Software",
+        "2020 - 2022 (2 years)",
+        "Engineered Python backend APIs with PostgreSQL database management."
+      ]
+    ],
+    "education": "B.S. in Computer Science - Texas A&M University (2020)"
+  },
+  {
+    "filename": "resume_32_zoe_deschanel.txt",
+    "name": "Zoe Deschanel",
+    "contact": "zoe.d@qa-auto.io | +1-555-0132 | Seattle, WA",
+    "summary": "QA Automation Lead with 5 years of experience developing automated test suites with Python, Selenium, Playwright, and PyTest for web and API platforms.",
+    "skills": [
+      "QA Automation",
+      "Python",
+      "Selenium",
+      "Playwright",
+      "PyTest",
+      "CI/CD",
+      "API Testing",
+      "Docker",
+      "Git",
+      "Postman"
+    ],
+    "experience": [
+      [
+        "Lead QA Automation Engineer",
+        "SoundView Systems",
+        "2022 - Present (3 years)",
+        "Led test automation strategy with Python and Playwright, achieving 90% test coverage across release branches."
+      ],
+      [
+        "QA Automation Engineer",
+        "Cascade Digital",
+        "2020 - 2022 (2 years)",
+        "Authored Selenium regression suites in Python."
+      ]
+    ],
+    "education": "B.S. in Information Systems - University of Washington (2020)"
+  }
+]

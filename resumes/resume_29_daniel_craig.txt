@@ -1,0 +1,21 @@
+=======================================================
+Daniel Craig
+daniel.c@datamaster.io | +1-555-0129 | Toronto, Canada
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Senior Data Engineer with 7 years of experience building big data ingestion pipelines in Python, PySpark, AWS Glue, and Apache Kafka for enterprise financial data.
+
+TECHNICAL SKILLS:
+Data Engineering, Python, PySpark, Kafka, AWS, SQL, Airflow, PostgreSQL, Docker, ETL
+
+WORK EXPERIENCE:
+- Senior Big Data Engineer at Maple Finance Technologies (2021 - Present (4 years)):
+  Architected real-time streaming pipelines in PySpark and Kafka handling 50M financial market ticks daily.
+
+- Data Engineer at Ontario Data Corp (2018 - 2021 (3 years)):
+  Built automated Airflow data pipelines and PostgreSQL data marts.
+
+EDUCATION:
+B.Sc. in Computer Science - University of Toronto (2018)
+=======================================================

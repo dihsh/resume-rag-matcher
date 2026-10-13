@@ -1,0 +1,22 @@
+{
+  "id": "jd_04_devops_cloud_architect",
+  "title": "Principal DevOps & Cloud Infrastructure Architect",
+  "department": "Infrastructure & Reliability",
+  "location": "Chicago, IL / Remote",
+  "min_experience_years": 5,
+  "must_have_skills": [
+    "Kubernetes",
+    "AWS",
+    "Terraform",
+    "Docker"
+  ],
+  "nice_to_have_skills": [
+    "Go",
+    "CI/CD",
+    "Helm",
+    "Prometheus",
+    "ArgoCD",
+    "Linux"
+  ],
+  "description": "Seeking an experienced DevOps & Cloud Infrastructure Architect with 5+ years of hands-on expertise building scalable, highly available cloud environments on AWS. You will be responsible for defining Infrastructure as Code using Terraform, architecting multi-cluster Kubernetes deployments, automating GitOps CI/CD release pipelines, and maintaining zero-downtime reliability."
+}

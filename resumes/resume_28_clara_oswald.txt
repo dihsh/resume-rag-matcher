@@ -1,0 +1,21 @@
+=======================================================
+Clara Oswald
+clara.o@mlnlp.org | +1-555-0128 | London, UK
+=======================================================
+
+PROFESSIONAL SUMMARY:
+AI & NLP Engineer with 4 years of experience developing text classification, sentiment analysis, and embedding search models using Python, PyTorch, HuggingFace, and ChromaDB.
+
+TECHNICAL SKILLS:
+Python, Machine Learning, NLP, PyTorch, HuggingFace, ChromaDB, Transformers, FastAPI, Docker, Git
+
+WORK EXPERIENCE:
+- NLP Engineer at Veritas AI Systems (2022 - Present (3 years)):
+  Built multilingual document classification models with HuggingFace and deployed them as FastAPI microservices.
+
+- Machine Learning Developer at DataLogic UK (2021 - 2022 (1 year)):
+  Trained word embedding and text similarity models in Python.
+
+EDUCATION:
+M.Sc. in Machine Learning - University College London (2021)
+=======================================================

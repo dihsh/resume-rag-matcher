@@ -1,0 +1,21 @@
+=======================================================
+Samuel Jackson
+samuel.j@securitydefense.net | +1-555-0127 | Atlanta, GA
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Cybersecurity Incident Responder & Threat Analyst with 6 years of experience investigating security breaches, analyzing malware, and building automated SOC alerts in Python.
+
+TECHNICAL SKILLS:
+Cybersecurity, Incident Response, Python, SIEM (Splunk), Linux, Forensics, Network Security, Wireshark, Threat Intelligence
+
+WORK EXPERIENCE:
+- Senior Incident Responder at Delta Cyber Guard (2021 - Present (4 years)):
+  Investigated security incidents across 1000+ corporate endpoints and wrote automated triage scripts in Python.
+
+- SOC Security Analyst at Atlantic Security Ops (2019 - 2021 (2 years)):
+  Monitored intrusion detection alerts and developed custom Splunk detection rules.
+
+EDUCATION:
+B.S. in Information Security - Kennesaw State University (2019)
+=======================================================

@@ -1,0 +1,21 @@
+=======================================================
+Zoe Deschanel
+zoe.d@qa-auto.io | +1-555-0132 | Seattle, WA
+=======================================================
+
+PROFESSIONAL SUMMARY:
+QA Automation Lead with 5 years of experience developing automated test suites with Python, Selenium, Playwright, and PyTest for web and API platforms.
+
+TECHNICAL SKILLS:
+QA Automation, Python, Selenium, Playwright, PyTest, CI/CD, API Testing, Docker, Git, Postman
+
+WORK EXPERIENCE:
+- Lead QA Automation Engineer at SoundView Systems (2022 - Present (3 years)):
+  Led test automation strategy with Python and Playwright, achieving 90% test coverage across release branches.
+
+- QA Automation Engineer at Cascade Digital (2020 - 2022 (2 years)):
+  Authored Selenium regression suites in Python.
+
+EDUCATION:
+B.S. in Information Systems - University of Washington (2020)
+=======================================================

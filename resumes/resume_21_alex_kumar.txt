@@ -1,0 +1,21 @@
+=======================================================
+Alex Kumar
+alex.kumar@ai-research.org | +1-555-0121 | Seattle, WA
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Machine Learning Engineer with 4 years of hands-on experience developing deep learning architectures and LLM applications using Python, PyTorch, and LangChain. Strong focus on fine-tuning transformer models and vector databases.
+
+TECHNICAL SKILLS:
+Python, PyTorch, TensorFlow, HuggingFace, LangChain, Vector Databases, ChromaDB, Docker, FastAPI, Machine Learning
+
+WORK EXPERIENCE:
+- Machine Learning Engineer at Cognitive AI Labs (2022 - Present (3 years)):
+  Built Retrieval-Augmented Generation (RAG) pipelines in Python with LangChain and FAISS, boosting customer support automation by 65%.
+
+- Data & AI Developer at DataWave Analytics (2021 - 2022 (1 year)):
+  Trained and evaluated computer vision and NLP classification models in Python and PyTorch on AWS GPU instances.
+
+EDUCATION:
+M.S. in Artificial Intelligence - University of Washington (2021)
+=======================================================

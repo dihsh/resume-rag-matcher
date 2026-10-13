@@ -1,0 +1,21 @@
+=======================================================
+Hannah Abbott
+hannah.a@devopscloud.org | +1-555-0124 | Minneapolis, MN
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Cloud Operations & CI/CD Engineer with 4 years of experience managing Kubernetes, Terraform, AWS infrastructure, and GitHub Actions automation.
+
+TECHNICAL SKILLS:
+Kubernetes, AWS, Terraform, Docker, CI/CD, Linux, Bash, Prometheus, Grafana, Python
+
+WORK EXPERIENCE:
+- DevOps Engineer at NorthStar Cloud (2022 - Present (3 years)):
+  Maintained production AWS EKS clusters and automated multi-environment Terraform deployments.
+
+- Junior Cloud Admin at Midwest Systems (2021 - 2022 (1 year)):
+  Configured monitoring dashboards in Grafana and automated bash backup routines.
+
+EDUCATION:
+B.S. in Network Administration - University of Minnesota (2021)
+=======================================================

@@ -1,0 +1,21 @@
+{
+  "id": "jd_01_senior_python_backend",
+  "title": "Senior Python Backend Engineer",
+  "department": "Core Platform Engineering",
+  "location": "San Francisco, CA / Remote",
+  "min_experience_years": 5,
+  "must_have_skills": [
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "Docker"
+  ],
+  "nice_to_have_skills": [
+    "Redis",
+    "Kubernetes",
+    "Kafka",
+    "Celery",
+    "Microservices"
+  ],
+  "description": "We are seeking a Senior Python Backend Engineer with 5+ years of experience to design, build, and scale our high-throughput distributed microservices. You will architect REST and gRPC APIs using Python, FastAPI, and PostgreSQL, manage asynchronous task pipelines with Celery and Redis, and deploy containerized services onto Kubernetes. Strong focus on database query performance, high concurrency, and clean modular architecture."
+}

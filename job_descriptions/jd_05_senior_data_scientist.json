@@ -1,0 +1,22 @@
+{
+  "id": "jd_05_senior_data_scientist",
+  "title": "Senior Data Scientist (Predictive Analytics & ML)",
+  "department": "Data & Analytics",
+  "location": "New York, NY / Hybrid",
+  "min_experience_years": 4,
+  "must_have_skills": [
+    "Python",
+    "Machine Learning",
+    "Scikit-Learn",
+    "SQL"
+  ],
+  "nice_to_have_skills": [
+    "Pandas",
+    "NumPy",
+    "Tableau",
+    "A/B Testing",
+    "Spark",
+    "Snowflake"
+  ],
+  "description": "We are looking for a Senior Data Scientist to turn massive datasets into strategic predictive models. You will formulate machine learning models using Python and Scikit-Learn, query cloud data warehouses using SQL, design rigorous A/B experiments, and partner with executive stakeholders to deploy customer churn, lifetime value, and recommendation models."
+}

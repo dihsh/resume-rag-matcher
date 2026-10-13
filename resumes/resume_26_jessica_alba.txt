@@ -1,0 +1,21 @@
+=======================================================
+Jessica Alba
+jessica.a@reactpro.io | +1-555-0126 | Salt Lake City, UT
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Full Stack Engineer with 4 years of experience building web applications using React, Node.js, TypeScript, and MongoDB. Strong eye for UX details and responsive design.
+
+TECHNICAL SKILLS:
+React, TypeScript, Node.js, Express, MongoDB, JavaScript, HTML5, CSS3, REST APIs, TailwindCSS
+
+WORK EXPERIENCE:
+- Full Stack Developer at Wasatch Tech Labs (2022 - Present (3 years)):
+  Developed interactive customer-facing web apps in React and TypeScript with Node.js Express APIs.
+
+- Web Developer at Apex Creative (2021 - 2022 (1 year)):
+  Built modern single-page applications with React and MongoDB.
+
+EDUCATION:
+B.S. in Computer Science - University of Utah (2021)
+=======================================================

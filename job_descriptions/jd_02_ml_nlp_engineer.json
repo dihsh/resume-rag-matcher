@@ -1,0 +1,21 @@
+{
+  "id": "jd_02_ml_nlp_engineer",
+  "title": "Machine Learning & NLP Engineer (LLMs / RAG)",
+  "department": "Artificial Intelligence Research",
+  "location": "Seattle, WA / Remote",
+  "min_experience_years": 3,
+  "must_have_skills": [
+    "Python",
+    "PyTorch",
+    "HuggingFace",
+    "Machine Learning"
+  ],
+  "nice_to_have_skills": [
+    "LangChain",
+    "Vector Databases",
+    "ChromaDB",
+    "Transformers",
+    "FastAPI"
+  ],
+  "description": "Looking for an innovative Machine Learning & NLP Engineer to build cutting-edge Retrieval-Augmented Generation (RAG) pipelines and fine-tune transformer models. You will implement dense semantic search with vector databases (such as ChromaDB), evaluate LLM outputs, and deploy high-speed inference endpoints using Python, PyTorch, and FastAPI. Experience with LangChain, embedding models, and vector search is strongly preferred."
+}

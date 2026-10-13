@@ -1,0 +1,21 @@
+{
+  "id": "jd_03_fullstack_react_node",
+  "title": "Senior Full Stack Engineer (React & Python/Node)",
+  "department": "Product Engineering",
+  "location": "Austin, TX / Hybrid",
+  "min_experience_years": 4,
+  "must_have_skills": [
+    "React",
+    "TypeScript",
+    "Python",
+    "REST APIs"
+  ],
+  "nice_to_have_skills": [
+    "Node.js",
+    "FastAPI",
+    "PostgreSQL",
+    "TailwindCSS",
+    "Docker"
+  ],
+  "description": "We are hiring a Senior Full Stack Engineer to lead front-to-back feature development across our core enterprise SaaS products. You should be proficient in React, TypeScript, and modern state management on the client side, accompanied by solid backend API engineering in Python or Node.js. Experience integrating databases like PostgreSQL and building responsive, accessible user interfaces is essential."
+}

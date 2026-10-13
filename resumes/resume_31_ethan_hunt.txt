@@ -1,0 +1,21 @@
+=======================================================
+Ethan Hunt
+ethan.h@fullstack-py.com | +1-555-0131 | Austin, TX
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Full Stack Software Engineer with 5 years of experience building modern reactive applications using Python FastAPI, React, TypeScript, and PostgreSQL.
+
+TECHNICAL SKILLS:
+Python, FastAPI, React, TypeScript, PostgreSQL, Docker, Redis, REST APIs, TailwindCSS, Git
+
+WORK EXPERIENCE:
+- Full Stack Developer at Austin Cloud Tech (2022 - Present (3 years)):
+  Built full stack features using React and FastAPI microservices, serving 100K active users.
+
+- Software Developer at LoneStar Software (2020 - 2022 (2 years)):
+  Engineered Python backend APIs with PostgreSQL database management.
+
+EDUCATION:
+B.S. in Computer Science - Texas A&M University (2020)
+=======================================================

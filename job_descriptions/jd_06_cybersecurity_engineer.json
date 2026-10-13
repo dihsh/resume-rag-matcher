@@ -1,0 +1,21 @@
+{
+  "id": "jd_06_cybersecurity_engineer",
+  "title": "Cybersecurity & DevSecOps Engineer",
+  "department": "Information Security",
+  "location": "Washington, DC / Remote",
+  "min_experience_years": 4,
+  "must_have_skills": [
+    "Cybersecurity",
+    "Python",
+    "Linux",
+    "SIEM (Splunk, Elastic)"
+  ],
+  "nice_to_have_skills": [
+    "AWS Security",
+    "OWASP Top 10",
+    "SOC 2",
+    "Terraform",
+    "Wireshark"
+  ],
+  "description": "Our security team is seeking a Cybersecurity & DevSecOps Engineer with 4+ years of experience in vulnerability assessments, SIEM automation, intrusion response, and threat detection. You will author Python scripts to automate security triage, audit cloud environments against SOC 2/NIST frameworks, and integrate security scanners into DevOps pipelines."
+}

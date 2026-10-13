@@ -1,0 +1,21 @@
+=======================================================
+Sarah Patel
+sarah.patel@webcraft.com | +1-555-0122 | Boston, MA
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Frontend UI/UX Engineer with 3 years of expertise building accessible, ultra-responsive web applications. Passionate about design systems, WCAG compliance, and modern JavaScript frameworks.
+
+TECHNICAL SKILLS:
+JavaScript, TypeScript, React, Vue.js, Next.js, HTML5, CSS3, TailwindCSS, Figma, Jest
+
+WORK EXPERIENCE:
+- Frontend Developer at PixelCraft Studios (2023 - Present (2 years)):
+  Engineered interactive SaaS components using React, TypeScript, and TailwindCSS, achieving 98+ Google Lighthouse scores.
+
+- Junior Web Designer & Dev at Elevate Creative (2022 - 2023 (1 year)):
+  Built responsive landing pages and customized Vue.js storefront widgets for global e-commerce brands.
+
+EDUCATION:
+B.A. in Digital Media & Web Design - Northeastern University (2022)
+=======================================================

@@ -1,0 +1,21 @@
+=======================================================
+Nathan Drake
+nathan.d@pythonbackend.net | +1-555-0123 | Portland, OR
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Backend Python Developer with 5 years of experience building REST APIs, background worker systems, and data scraping engines using Python, FastAPI, Celery, and PostgreSQL.
+
+TECHNICAL SKILLS:
+Python, FastAPI, Flask, PostgreSQL, Celery, Redis, Docker, Git, REST APIs, AWS
+
+WORK EXPERIENCE:
+- Backend Software Developer at Pacific Data Services (2022 - Present (3 years)):
+  Engineered FastAPI microservices and Celery workers parsing 500K web documents daily with PostgreSQL storage.
+
+- Python Developer at Cascade Tech Labs (2020 - 2022 (2 years)):
+  Maintained Flask web services and automated reporting scripts.
+
+EDUCATION:
+B.S. in Computer Science - Oregon State University (2020)
+=======================================================

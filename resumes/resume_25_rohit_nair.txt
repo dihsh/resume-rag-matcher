@@ -1,0 +1,21 @@
+=======================================================
+Rohit Nair
+rohit.n@dataml.com | +1-555-0125 | Phoenix, AZ
+=======================================================
+
+PROFESSIONAL SUMMARY:
+Data Scientist with 5 years of experience building predictive models, recommendation systems, and time-series forecasting algorithms using Python, Scikit-Learn, LightGBM, and SQL.
+
+TECHNICAL SKILLS:
+Python, Machine Learning, Scikit-Learn, SQL, Pandas, NumPy, LightGBM, Tableau, AWS, Docker
+
+WORK EXPERIENCE:
+- Data Scientist at Desert Ridge Analytics (2022 - Present (3 years)):
+  Trained LightGBM click-through rate models in Python improving ad targeting efficiency by 22%.
+
+- Junior Data Analyst at Sunbelt Finance (2020 - 2022 (2 years)):
+  Authored SQL data models and automated predictive regression scripts.
+
+EDUCATION:
+M.S. in Business Analytics - Arizona State University (2020)
+=======================================================

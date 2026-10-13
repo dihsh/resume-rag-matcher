@@ -1,0 +1,21 @@
+=======================================================
+Amara Okoye
+amara.o@cloudinfra.net | +1-555-0130 | Raleigh, NC
+=======================================================
+
+PROFESSIONAL SUMMARY:
+DevOps & Cloud Security Architect with 8 years of experience designing zero-trust cloud architectures on AWS, managing multi-tenant Kubernetes clusters, and writing Terraform automation.
+
+TECHNICAL SKILLS:
+Kubernetes, AWS, Terraform, Docker, Cybersecurity, CI/CD, Linux, Python, Prometheus, Helm
+
+WORK EXPERIENCE:
+- Principal Cloud Infrastructure Architect at Triangle Cloud Systems (2020 - Present (5 years)):
+  Architected PCI-DSS compliant AWS Kubernetes platform with automated GitOps and Terraform modules.
+
+- DevOps Engineer at Carolina Tech Labs (2017 - 2020 (3 years)):
+  Automated Docker container builds and implemented centralized logging with Elasticsearch.
+
+EDUCATION:
+B.S. in Computer Science - North Carolina State University (2017)
+=======================================================
